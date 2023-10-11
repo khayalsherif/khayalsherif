@@ -2,7 +2,7 @@
 ---
 ### That Neat Dev 🌟 the Bug Fix King 💻 
 
-![image](https://www.google.com/search?q=android+&tbm=isch&ved=2ahUKEwiBl8rauu6BAxVH9LsIHRBlCMQQ2-cCegQIABAA&oq=android+&gs_lcp=CgNpbWcQAzIECCMQJzIECCMQJzIFCAAQgAQyBQgAEIAEMgcIABCKBRBDMgUIABCABDIFCAAQgAQyBQgAEIAEMgUIABCABDIFCAAQgARQAFgAYN8BaABwAHgAgAHSAYgB0gGSAQMyLTGYAQCgAQGqAQtnd3Mtd2l6LWltZ8ABAQ&sclient=img&ei=JdMmZcHwDMfo7_UPkMqhoAw&bih=835&biw=1470&rlz=1C5CHFA_enAZ1034AZ1034#imgrc=zac4PPhMWb9VaM)
+![image](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ4AUEge3vKrlZs8csaSUhtuOqNKM6W6TjupA&usqp=CAU)
 
 <img src="https://komarev.com/ghpvc/?username=firuza-hub&style=flat-square&color=blue" alt=""/>
 
