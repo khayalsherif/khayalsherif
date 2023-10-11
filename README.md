@@ -1,8 +1,8 @@
-### Hello there 😄 I'm Firuza  
+### Hello there 😄 I'm Khayal  
 ---
 ### That Neat Dev 🌟 the Bug Fix Queen 💻 
 
-![image]([https://github.com/firuza-hub/firuza-hub/assets/52698220/6739ffb2-2407-438b-a910-8dc4d549e8b9](https://www.google.com/search?q=android+&tbm=isch&ved=2ahUKEwiBl8rauu6BAxVH9LsIHRBlCMQQ2-cCegQIABAA&oq=android+&gs_lcp=CgNpbWcQAzIECCMQJzIECCMQJzIFCAAQgAQyBQgAEIAEMgcIABCKBRBDMgUIABCABDIFCAAQgAQyBQgAEIAEMgUIABCABDIFCAAQgARQAFgAYN8BaABwAHgAgAHSAYgB0gGSAQMyLTGYAQCgAQGqAQtnd3Mtd2l6LWltZ8ABAQ&sclient=img&ei=JdMmZcHwDMfo7_UPkMqhoAw&bih=835&biw=1470&rlz=1C5CHFA_enAZ1034AZ1034#imgrc=CoXGveK50Dv_uM))
+![image](https://www.google.com/search?q=android+&tbm=isch&ved=2ahUKEwiBl8rauu6BAxVH9LsIHRBlCMQQ2-cCegQIABAA&oq=android+&gs_lcp=CgNpbWcQAzIECCMQJzIECCMQJzIFCAAQgAQyBQgAEIAEMgcIABCKBRBDMgUIABCABDIFCAAQgAQyBQgAEIAEMgUIABCABDIFCAAQgARQAFgAYN8BaABwAHgAgAHSAYgB0gGSAQMyLTGYAQCgAQGqAQtnd3Mtd2l6LWltZ8ABAQ&sclient=img&ei=JdMmZcHwDMfo7_UPkMqhoAw&bih=835&biw=1470&rlz=1C5CHFA_enAZ1034AZ1034#imgrc=zac4PPhMWb9VaM))
 
 <img src="https://komarev.com/ghpvc/?username=firuza-hub&style=flat-square&color=blue" alt=""/>
 
