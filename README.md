@@ -1,7 +1,6 @@
 ### Hello there 😄 I'm Khayal  
 ---
 ### That Neat Dev 🌟 the Bug Fix King 💻 
-
 <img src="https://komarev.com/ghpvc/?username=firuza-hub&style=flat-square&color=blue" alt=""/>
 
 👻You were lucky enough to discover one of the most hardworking, enthusiastic and pasionate Software Engineers 
