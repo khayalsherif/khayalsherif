@@ -9,7 +9,7 @@
 ### About Me
 I am an Green Robot developer😉
 
-If you are willing to see me in your team, contact me via email: fsaliyeva96@gmail.com
+If you are willing to see me in your team, contact me via email: xeyalsherif@gmail.com
 
 ### :fire: My Stats :
 
